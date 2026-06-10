@@ -28,14 +28,22 @@ The SGC-Net framework consists of three core components:
 
 ## 3. Prerequisites
 
-torch>=2.0.0
+#torch>=2.0.0
+
 torchvision>=0.15.0
+
 transformers>=4.35.0
+
 pillow>=9.4.0
+
 opencv-python>=4.8.0
+
 scikit-image>=0.21.0
+
 tqdm
+
 pandas
+
 numpy
 
 ---
